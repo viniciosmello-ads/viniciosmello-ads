@@ -1,6 +1,6 @@
 # Olá, visitante! Seja bem-vindo(a) 👋
 
-Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e futuro desenvolvedor de software. Meu objetivo de carreira é unir tecnologia e impacto social, criando soluções eficientes para a transformação digital e inovação no setor público.
+Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e futuro desenvolvedor de software. Meu objetivo de carreira é unir tecnologia e impacto social, criando soluções eficientes para a transformação e inovação digital.
 
 ---
 
